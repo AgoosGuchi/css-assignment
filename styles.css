@@ -115,7 +115,6 @@ img {
     align-items: center;
     justify-content: center;
     grid-template-columns: 1fr 1fr;
-
 }
 .figure-list {
     gap: 1rem;
@@ -167,12 +166,6 @@ blockquote {
 }
 .list-title {
     font-weight: 900;
-}
-.tips img {
-    top: 230px;
-    float: right;
-    height: 600px;
-    position: relative;
 }
 .reminders img {
     width: 100%;
