@@ -135,6 +135,9 @@ figure img {
     border-radius: 1rem;
     margin-bottom: .5rem;
 }
+figure figcaption {
+    font-size: .7rem;
+}
 .quote {
     padding-top: 4rem;
     padding-bottom: 4rem;
